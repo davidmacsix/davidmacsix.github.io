@@ -1,1 +1,0 @@
-# -davidmacsix.github.io
