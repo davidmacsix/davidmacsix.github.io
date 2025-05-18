@@ -5,7 +5,9 @@ description: >-
 baseurl: ""
 url: "https://davidmacsix.github.io"
 
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
 search_full_content: true
 plugins:
   - jekyll-feed
@@ -18,16 +20,6 @@ plugins:
 #  - contact.md
 #  - blog.md
 
-# Navigation for So Simple
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "FAQ"
-    url: /faq/
-  - title: "Contact"
-    url: /contact/
-  - title: "Blog"
-    url: /blog/
 
 # Social Links
 author:
