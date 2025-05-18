@@ -4,8 +4,6 @@ title: "Welcome to Dr. Dot's Online Tutoring!"
 permalink: /
 ---
 
-![Dr. Dot – Online Science Tutor](/assets/images/dot-profile.jpeg)
-
 # 👋 Hi, I'm Dr. Dot!
 
 Welcome to my corner of the internet! I'm Dr. Dorothy MacDonald — but my students just call me **Dr. Dot**.
