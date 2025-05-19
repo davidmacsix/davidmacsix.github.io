@@ -48,6 +48,10 @@ author:
     - label: "dot@macsix.io"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dot@macsix.io"
+    - label: LinkedIn
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dorothy-macdonald-6516a3335"
+
 
 logo: "/assets/images/logo.png"
 locale: "en-GB"
