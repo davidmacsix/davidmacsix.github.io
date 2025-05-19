@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 header:
     overlay_image: /assets/images/cover.png
-    overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+    #overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
     actions:
         - label: "Contact Me"
           url: /contact/
