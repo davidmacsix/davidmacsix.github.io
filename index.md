@@ -15,6 +15,7 @@ header:
 Welcome to my corner of the internet! I'm Dr. Dorothy MacDonald — but my students just call me **Dr. Dot**.
 
 With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love for science, I'm here to help young learners **crack the code of Biology, Chemistry, and all things sciencey** in a way that's actually fun.
+{: .text-justify}
 
 ---
 
