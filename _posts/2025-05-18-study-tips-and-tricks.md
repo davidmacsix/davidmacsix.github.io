@@ -8,9 +8,11 @@ categories: [study, tips, science]
 
 Studying science doesn’t have to feel like decoding a foreign language. With the right strategies, anyone can build
 confidence, improve memory, and actually enjoy the learning process.
+{: .text-justify}
 
 Here are some of my favourite study tips and tricks that I share with students — whether you’re revising for GCSEs,
 Higher Biology, or prepping for IB SEHS.
+{: .text-justify}
 
 ![image-center](/assets/images/studying.png){: .align-center}
 
