@@ -1,7 +1,33 @@
 ---
-layout: home
-title: "Welcome to Dr. Dot's Online Tutoring!"
+layout: splash
+title: "Welcome to Dr. Dot's International Tutoring!"
+
 permalink: /
+author_profile: true
+header:
+    overlay_image: /assets/images/cover.png
+    overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+    actions:
+        - label: "Contact Me"
+          url: /contact/
+feature_row:
+  - image_path: assets/images/what-i-teach.png
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "Whether you’re prepping for an exam or just need someone to make mitochondria *a little less boring*, I’ve got you covered:
+- 🧬 **Biology** – GCSE/N5, Higher, Advanced Higher, IB, A-Level
+- 💪 **Human Biology & Health Science** – including IB SEHS
+- ⚗️ **Chemistry & Physics** – up to GCSE/N5 level
+- 🧠 **Study Coaching** – coursework, projects, and confidence boosts
+"
+  - image_path: /assets/images/why-i-teach.png
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /contact/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 # 👋 Hi, I'm Dr. Dot!
@@ -11,6 +37,8 @@ Welcome to my corner of the internet! I'm Dr. Dorothy MacDonald — but my stude
 With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love for science, I'm here to help young learners **crack the code of Biology, Chemistry, and all things sciencey** in a way that's actually fun.
 
 ---
+
+{% include feature_row %}
 
 ## 🎓 What I Teach
 

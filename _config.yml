@@ -1,33 +1,35 @@
-title: "Dr. Dot's Tutoring"
+title: "Dr. Dot's International Tutoring"
+subtitle: "Helping Curious Minds Thrive in Science"
 email: dot@macsix.io
 description: >-
   Fun, friendly, expert science tutoring in Biology, Health and STEM with Dr. Dot.
 baseurl: ""
-url: "https://davidmacsix.github.io"
+url: "https://macsix.io"
 
 #theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: daattali/beautiful-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+minimal_mistakes_skin: "air"
 
 search_full_content: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation
-#header_pages:
-#  - about.md
-#  - faq.md
-#  - contact.md
-#  - blog.md
-
+include: ["_pages", "_posts", "_data"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "LICENSE.txt"]
 
 # Social Links
 author:
-  name: Dr. Dot
-  email: dot@macsix.io
+  avatar: "/assets/images/dot-profile.png"
+  name: Dr. Dorothy MacDonald
+  links:
+    - label: "dot@macsix.io"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dot@macsix.io"
 
-# Optional settings for So Simple
-logo: "/assets/images/dot-profile.png"
+logo: "/assets/images/logo.png"
 locale: "en-GB"
 markdown: kramdown
 highlighter: rouge

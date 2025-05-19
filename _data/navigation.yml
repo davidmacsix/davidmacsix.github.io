@@ -1,10 +1,13 @@
-- title: "Home"
-  url: /
-- title: "About"
-  url: /about/
-- title: "FAQ"
-  url: /faq/
-- title: "Contact"
-  url: /contact/
-- title: "Blog"
-  url: /blog/
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/
+  - title: "Blog"
+    url: /blog/
+  - title: "Search"
+    url: /search/

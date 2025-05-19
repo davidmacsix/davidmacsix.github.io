@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Frequently Asked Questions"
 permalink: /faq/
+author_profile: true
 ---
 
 ## ❓ Frequently Asked Questions
