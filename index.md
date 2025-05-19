@@ -1,32 +1,12 @@
 ---
-layout: splash
+layout: home
 title: "Welcome to Dr. Dot's International Tutoring!"
-
 permalink: /
-author_profile: true
 header:
     overlay_image: /assets/images/cover.png
-    #overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
     actions:
         - label: "Contact Me"
           url: /contact/
-feature_row:
-  - image_path: assets/images/what-i-teach.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "Whether you’re prepping for an exam or just need someone to make mitochondria *a little less boring*, I’ve got you covered:
-- 🧬 **Biology** – GCSE/N5, Higher, Advanced Higher, IB, A-Level
-- 💪 **Human Biology & Health Science** – including IB SEHS
-- ⚗️ **Chemistry & Physics** – up to GCSE/N5 level
-- 🧠 **Study Coaching** – coursework, projects, and confidence boosts
-"
-  - image_path: /assets/images/why-i-teach.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /contact/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 ---
 
@@ -38,9 +18,8 @@ With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love fo
 
 ---
 
-{% include feature_row %}
-
 ## 🎓 What I Teach
+![image-center](/assets/images/what-i-teach.png){: .align-center}
 
 Whether you’re prepping for an exam or just need someone to make mitochondria *a little less boring*, I’ve got you covered:
 
@@ -52,7 +31,7 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 ---
 
 ## 🌟 Why Students Love Learning With Me
-
+![image-center](/assets/images/why-i-teach.png){: .align-center}
 - I'm a **real scientist** (Ph.D. in Immunology — yep, I’m that into cells!)
 - I’ve taught in top schools and colleges across the UK
 - I make learning feel **doable, supportive, and even fun**

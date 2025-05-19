@@ -21,6 +21,25 @@ plugins:
 include: ["_pages", "_posts", "_data"]
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "LICENSE.txt"]
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
 # Social Links
 author:
   avatar: "/assets/images/dot-profile.png"
