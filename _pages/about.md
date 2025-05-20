@@ -8,7 +8,7 @@ toc: true
 
 Hi! I’m Dorothy MacDonald — but you can call me **Dr. Dot**.
 
-I’m a Ph.D.-qualified scientist, educator, and passionate advocate for student growth. Over the past 15+ years, I’ve
+I’m a Ph.D.-qualified scientist, educator, and passionate advocate for student growth. Over the past 17 years, I’ve
 taught in some of the UK’s top schools and colleges, supporting students aged 10 to 18+ in mastering Biology, Human
 Health, Chemistry, and more.
 

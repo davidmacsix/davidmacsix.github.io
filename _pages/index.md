@@ -15,7 +15,7 @@ header:
 Welcome to my corner of the internet! I'm Dr. Dorothy MacDonald — but my students just call me **Dr. Dot**.
 {: .text-justify}
 
-With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love for science, I'm here to help young learners **crack the code of Biology, Chemistry, and all things sciencey** in a way that's actually fun.
+With a Ph.D. in Immunology, 17 years of teaching experience, and a deep love for science, I'm here to help young learners **crack the code of Biology, Chemistry, and all things sciencey** in a way that's actually fun.
 {: .text-justify}
 
 ## What I Teach
@@ -51,6 +51,6 @@ Want to know more or book your first session? I’d love to hear from you!
 - <i class='far fa-fw fa-envelope'></i> **Email**: [dot@macsix.io](mailto:dot@macsix.io)
 - <i class='fab fa-fw fa-whatsapp'></i> **WhatsApp**: [+44 7973 151425](https://wa.me/447973151425)
 - <i class='far fa-fw fa-phone'></i> **Phone**: [+44 7973 151425](tel:+447973151425)
-- <i class='far fa-fw fa-calendar-days'></i> **Available**: Weekday evenings & weekends
+- <i class='far fa-fw fa-calendar-days'></i> **Available**: Weekday evenings & weekends in your timezone.
 - <i class="far fa-fw fa-map-location-dot"></i> **Location**: Anywhere! I tutor online
 - <i class="far fa-fw fa-money-bill"></i> **Rates**: From £40/hour – ask me about bundles & sibling discounts!
