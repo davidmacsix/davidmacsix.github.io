@@ -16,7 +16,7 @@ plugins:
   - jekyll-include-cache
 
 include: ["_pages", "_posts", "_data"]
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "LICENSE.txt"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "LICENSE.txt", ".idea"]
 
 defaults:
   # _posts

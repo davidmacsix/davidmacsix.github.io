@@ -1,8 +1,6 @@
 ---
-layout: single
 title: "About Dr. Dot"
 permalink: /about/
-author_profile: true
 ---
 
 ## 👩‍🔬 Meet Dr. Dorothy “Dot” MacDonald
@@ -24,7 +22,6 @@ I founded my online tutoring service to bring **personalized science education**
 Whether you're preparing for IB, SQA, A-Level exams, or just need a bit of help cracking mitosis, I’ll meet you with a
 smile, a strategy, and a clear explanation.
 
----
 
 ## 📚 Credentials
 
@@ -34,12 +31,10 @@ smile, a strategy, and a clear explanation.
 - **SQA Marker** and **IB Internal Assessment Supervisor**
 - Former Assistant Year Head, CAS mentor, and UCAS coach
 
----
-
 ## 💬 A Few Fun Facts
 
 - I love science clubs, Duke of Edinburgh hikes, and nutrition challenges.
-- I bake a mean banana bread and tell terrible science jokes.
+- I bake a mean brownie and tell terrible science jokes.
 - My favourite cell organelle is... yes, the mitochondrion.
 
 Let’s work together to build your confidence and get results — with curiosity and kindness at the heart.
@@ -54,18 +49,6 @@ Let’s work together to build your confidence and get results — with curiosit
 | B.Sc. (Hons)     | Physiology                     | Queen’s University, Belfast | Sep 1998 – Jun 2001 | First Class                 |
 | A-Levels         | Biology, Chemistry, Physics    | Limavady Grammar School     | Jun 1997            |                             |
 
----
-
-## 🏫 Educational History
-
-| Institution                 | Dates       |
-|-----------------------------|-------------|
-| University of Strathclyde   | 2006 – 2007 |
-| University of Glasgow       | 2001 – 2006 |
-| Queen’s University, Belfast | 1998 – 2001 |
-| Limavady Grammar School     | 1990 – 1997 |
-
----
 
 ## 💼 Employment History
 
@@ -79,7 +62,5 @@ Let’s work together to build your confidence and get results — with curiosit
 | Teacher of Biology                                | The High School of Glasgow            | Aug 2010 – Feb 2011 | SG Biology, Higher Human, Advanced Higher Biology                |
 | Teacher of Biology                                | St Margaret’s School, Edinburgh       | Aug 2008 – Jun 2010 | SG Biology, SG Physics, Higher & AH Biology                      |
 | Probationer Teacher of Biology                    | Biggar High School, South Lanarkshire | Aug 2007 – Aug 2008 | SG Science/Biology, Intermediate 2, Higher Human Biology         |
-
----
 
 *Download my full CV [here](/downloads/Dorothy_MacDonald_Tutor_CV.pdf).*
