@@ -1,9 +1,10 @@
 ---
 title: "About Dr. Dot"
 permalink: /about/
+toc: true
 ---
 
-## 👩‍🔬 Meet Dr. Dorothy “Dot” MacDonald
+## Meet Dr. Dorothy “Dot” MacDonald
 
 Hi! I’m Dorothy MacDonald — but you can call me **Dr. Dot**.
 
@@ -13,17 +14,15 @@ Health, Chemistry, and more.
 
 I love helping learners feel confident and capable — even when they thought science wasn’t “their thing.”
 
----
 
-## 🌍 Why I Teach Online
+## Why I Teach Online
 
 I founded my online tutoring service to bring **personalized science education** to students around the globe.
 
 Whether you're preparing for IB, SQA, A-Level exams, or just need a bit of help cracking mitosis, I’ll meet you with a
 smile, a strategy, and a clear explanation.
 
-
-## 📚 Credentials
+## Credentials
 
 - **Ph.D. in Immunology**
 - **BSc (Hons) in Physiology**, First Class
@@ -31,7 +30,7 @@ smile, a strategy, and a clear explanation.
 - **SQA Marker** and **IB Internal Assessment Supervisor**
 - Former Assistant Year Head, CAS mentor, and UCAS coach
 
-## 💬 A Few Fun Facts
+## A Few Fun Facts
 
 - I love science clubs, Duke of Edinburgh hikes, and nutrition challenges.
 - I bake a mean brownie and tell terrible science jokes.
@@ -39,7 +38,7 @@ smile, a strategy, and a clear explanation.
 
 Let’s work together to build your confidence and get results — with curiosity and kindness at the heart.
 
-## 🎓 Academic Qualifications
+## Academic Qualifications
 
 | Qualification    | Subject                        | Institution                 | Dates               | Notes                       |
 |------------------|--------------------------------|-----------------------------|---------------------|-----------------------------|
@@ -50,7 +49,7 @@ Let’s work together to build your confidence and get results — with curiosit
 | A-Levels         | Biology, Chemistry, Physics    | Limavady Grammar School     | Jun 1997            |                             |
 
 
-## 💼 Employment History
+## Employment History
 
 | Role                                              | Employer                              | Dates               | Subjects Taught                                                  |
 |---------------------------------------------------|---------------------------------------|---------------------|------------------------------------------------------------------|
@@ -63,4 +62,5 @@ Let’s work together to build your confidence and get results — with curiosit
 | Teacher of Biology                                | St Margaret’s School, Edinburgh       | Aug 2008 – Jun 2010 | SG Biology, SG Physics, Higher & AH Biology                      |
 | Probationer Teacher of Biology                    | Biggar High School, South Lanarkshire | Aug 2007 – Aug 2008 | SG Science/Biology, Intermediate 2, Higher Human Biology         |
 
-*Download my full CV [here](/downloads/Dorothy_MacDonald_Tutor_CV.pdf).*
+Download my full CV [here](/downloads/Dorothy_MacDonald_Tutor_CV.pdf).
+{: .notice--success}
