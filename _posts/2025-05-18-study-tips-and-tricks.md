@@ -1,9 +1,8 @@
 ---
-layout: single
-classes: wide
 title: "Study Tips & Tricks for Science Success"
 date: 2025-05-18 16:02:05 +0000
 categories: [study, tips, science]
+toc: true
 ---
 
 Studying science doesn’t have to feel like decoding a foreign language. With the right strategies, anyone can build

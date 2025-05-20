@@ -38,11 +38,43 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 
 ## What People Say
 
-> “Dr. Dot is amazing. I used to dread Biology class — now it’s my strongest subject!”  
-> — S6 Student
+<!-- Render testimonial data as hidden JSON -->
+<script type="application/json" id="testimonial-data">
+  {{ site.data.testimonials.testimonials | jsonify }}
+</script>
 
-> “She brought kindness, clarity, and structure. Our daughter is thriving thanks to her.”  
-> — Parent of a GCSE student
+<!-- Container to inject the testimonials -->
+<div id="testimonial-container"></div>
+
+<script>
+  (function () {
+    const rawData = document.getElementById('testimonial-data').textContent;
+    const testimonials = JSON.parse(rawData);
+
+    // Fisher-Yates shuffle
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    const selected = shuffle(testimonials).slice(0, 2);
+    const container = document.getElementById('testimonial-container');
+
+    selected.forEach(t => {
+      const html = `
+        <div class="testimonial">
+          <blockquote>
+            "${t.content}"<br/>
+            &mdash; ${t.name}
+</blockquote>
+        </div>`;
+      container.insertAdjacentHTML('beforeend', html);
+    });
+  })();
+</script>
 
 ## Let’s Chat!
 
