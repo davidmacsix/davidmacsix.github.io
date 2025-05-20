@@ -17,7 +17,6 @@ Welcome to my corner of the internet! I'm Dr. Dorothy MacDonald — but my stude
 With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love for science, I'm here to help young learners **crack the code of Biology, Chemistry, and all things sciencey** in a way that's actually fun.
 {: .text-justify}
 
----
 
 ## 🎓 What I Teach
 ![image-center](/assets/images/what-i-teach.png){: .align-center}
@@ -29,8 +28,6 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 - ⚗️ **Chemistry & Physics** – up to GCSE/N5 level
 - 🧠 **Study Coaching** – coursework, projects, and confidence boosts
 
----
-
 ## 🌟 Why Students Love Learning With Me
 ![image-center](/assets/images/why-i-teach.png){: .align-center}
 - I'm a **real scientist** (Ph.D. in Immunology — yep, I’m that into cells!)
@@ -39,8 +36,6 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 - I work with students **around the world** — online and flexible
 - I believe in every student’s ability to **shine bright in science**
 
----
-
 ## 💬 What People Say
 
 > “Dr. Dot is amazing. I used to dread Biology class — now it’s my strongest subject!”  
@@ -48,8 +43,6 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 
 > “She brought kindness, clarity, and structure. Our daughter is thriving thanks to her.”  
 > — Parent of a GCSE student
-
----
 
 ## ✉️ Let’s Chat!
 
@@ -63,9 +56,7 @@ Want to know more or book your first session? I’d love to hear from you!
 
 📄 [Download My Tutor Profile (PDF)](/downloads/Dorothy_MacDonald_Tutor_CV.pdf)
 
----
 
 ## 📚 Blog & Resources
 
-Curious about learning, teaching, or sciencey stuff?  
-➡️ [Read My Blog Posts](/blog/) or explore the [latest updates](/news/)!
+Curious about learning, teaching, or sciencey stuff? ➡️ [Read my blog posts](/blog/).

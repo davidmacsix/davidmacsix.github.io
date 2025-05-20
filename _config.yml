@@ -6,9 +6,6 @@ description: >-
 baseurl: ""
 url: "https://macsix.io"
 
-#theme: jekyll-theme-so-simple
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
-#remote_theme: daattali/beautiful-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "air"
 
@@ -44,14 +41,18 @@ defaults:
 author:
   avatar: "/assets/images/dot-profile.png"
   name: Dr. Dorothy MacDonald
+  bio: >-
+    I am a passionate educator with a PhD in Biology and over 20 years of experience in teaching and tutoring. I specialize in Biology, Health, and STEM subjects, making learning fun and engaging for students of all ages.
   links:
     - label: "dot@macsix.io"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:dot@macsix.io"
-    - label: LinkedIn
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/dorothy-macdonald-6516a3335"
-
+    - label: WhatsApp
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://wa.me/447973151425"
+    - label: +44 7973 151425
+      icon: "far fa-fw fa-phone"
+      url: "tel:+447973151425"
 
 logo: "/assets/images/logo.png"
 locale: "en-GB"
