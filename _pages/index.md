@@ -19,7 +19,7 @@ With a Ph.D. in Immunology, 15+ years of teaching experience, and a deep love fo
 {: .text-justify}
 
 ## What I Teach
-![image-center](/assets/images/what-i-teach.png){: .align-center}
+![image-center](/assets/images/what-i-teach-animated.png){: .align-center}
 
 Whether you’re prepping for an exam or just need someone to make mitochondria *a little less boring*, I’ve got you covered:
 
@@ -29,7 +29,7 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 - <i class="far fa-fw fa-brain"></i> **Study Coaching** – coursework, projects, and confidence boosts
 
 ## Why Students Love Learning With Me
-![image-center](/assets/images/why-i-teach.png){: .align-center}
+![image-center](/assets/images/why-students.png){: .align-center}
 - I'm a **real scientist** (Ph.D. in Immunology — yep, I’m that into cells!)
 - I’ve taught in top schools and colleges across the UK
 - I make learning feel **doable, supportive, and even fun**
