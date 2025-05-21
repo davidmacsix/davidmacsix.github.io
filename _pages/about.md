@@ -63,6 +63,3 @@ Let’s work together to build your confidence and get results — with curiosit
 | Teacher of Biology                                     | The High School of Glasgow            | Aug 2010 – Feb 2011 | Standard Grade, Higher Human, Advanced Higher Biology                                                                                                              |
 | Teacher of Biology                                     | St Margaret’s School, Edinburgh       | Aug 2008 – Jun 2010 | Standard Grade Physics, Standard Grade, Higher & Advanced Higher Biology                                                                                           |
 | Probationer Teacher of Biology                         | Biggar High School, South Lanarkshire | Aug 2007 – Aug 2008 | Standard Grade Science/Biology, Intermediate 2, Higher Human Biology                                                                                               |
-
-Download my full CV [here](/downloads/Dorothy_MacDonald_Tutor_CV.pdf).
-{: .notice--success}
