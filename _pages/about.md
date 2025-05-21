@@ -11,16 +11,19 @@ Hi! I’m Dorothy MacDonald — but you can call me **Dr. Dot**.
 I’m a Ph.D.-qualified scientist, educator, and passionate advocate for student growth. Over the past 17 years, I’ve
 taught in some of the UK’s top schools and colleges, supporting students aged 10 to 18+ in mastering Biology, Human
 Health, Chemistry, and more.
+{: .text-justify}
 
 I love helping learners feel confident and capable — even when they thought science wasn’t “their thing.”
-
+{: .text-justify}
 
 ## Why I Teach Online
 
 I founded my online tutoring service to bring **personalized science education** to students around the globe.
+{: .text-justify}
 
 Whether you're preparing for IB, SQA, A-Level exams, or just need a bit of help cracking mitosis, I’ll meet you with a
 smile, a strategy, and a clear explanation.
+{: .text-justify}
 
 ## Credentials
 
@@ -37,6 +40,7 @@ smile, a strategy, and a clear explanation.
 - My favourite cell organelle is... yes, the mitochondrion.
 
 Let’s work together to build your confidence and get results — with curiosity and kindness at the heart.
+{: .text-justify}
 
 ## Academic Qualifications
 

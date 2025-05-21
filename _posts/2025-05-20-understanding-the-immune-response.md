@@ -2,6 +2,7 @@
 title: "Understanding the Immune Response"
 date: 2025-05-20
 categories: [biology, immune-system, teaching]
+toc: true
 ---
 
 Our immune system is an incredible defence network that protects us against harmful pathogens. But how exactly does it
@@ -40,9 +41,10 @@ But not all of them.
 Some stick around — these are **memory cells**. They remember the pathogen and **stay in your circulation** long after
 the infection is gone.
 {: .text-justify}
+
 This sets the stage for... 👇
 
-## ⚡ Secondary Immune Response
+## Secondary Immune Response
 
 Next time that same pathogen shows up?
 
@@ -62,9 +64,11 @@ they:
 {: .text-justify}
 * Trigger a **primary response** safely (no illness)
 * Allow your body to develop **memory cells**
-* Prepare you for a **rapid, protective secondary response** if you ever encounter the real thing
+* Prepare you for a **rapid, protective secondary response** if you ever encounter the real thing 
+{: .text-justify}
 
 Vaccines don’t just protect individuals — they help protect communities.
+{: .text-justify}
 
 ---
 
