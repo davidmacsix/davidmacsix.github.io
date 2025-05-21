@@ -52,19 +52,17 @@ Let’s work together to build your confidence and get results — with curiosit
 | B.Sc. (Hons)     | Physiology                     | Queen’s University, Belfast | Sep 1998 – Jun 2001 | First Class                 |
 | A-Levels         | Biology, Chemistry, Physics    | Limavady Grammar School     | Jun 1997            |                             |
 
-
 ## Employment History
 
-| Role                                              | Employer                              | Dates               | Subjects Taught                                                  |
-|---------------------------------------------------|---------------------------------------|---------------------|------------------------------------------------------------------|
-| Teacher of Biology, SEHS, Natural Sciences Coord. | Lomond School, Helensburgh            | Aug 2022 – Present  | IB DP SEHS, Higher, N5 & N4 Biology, N5 Chemistry, S2–S3 Science |
-| Teacher of Biology (0.5–0.8 FTE)                  | St Columba’s School, Kilmacolm        | Aug 2019 – Aug 2022 | Higher, N5 Biology, N5 Physics, S2 Science                       |
-| Supply Teacher of Biology                         | The High School of Glasgow            | 2011 – 2018         | AH, Higher, N5 Biology, CfE Science                              |
-| Teacher of Biology                                | Williamwood High School               | Oct 2016 – Jun 2017 | BGE Science, N4/N5 Biology, Environmental Science                |
-| Lecturer in Biology                               | Clyde College (Langside Campus)       | Aug 2012 – Jun 2014 | Higher, Higher Human, Advanced Higher Biology                    |
-| Teacher of Biology                                | The High School of Glasgow            | Aug 2010 – Feb 2011 | SG Biology, Higher Human, Advanced Higher Biology                |
-| Teacher of Biology                                | St Margaret’s School, Edinburgh       | Aug 2008 – Jun 2010 | SG Biology, SG Physics, Higher & AH Biology                      |
-| Probationer Teacher of Biology                    | Biggar High School, South Lanarkshire | Aug 2007 – Aug 2008 | SG Science/Biology, Intermediate 2, Higher Human Biology         |
+| Role                                                   | Employer                              | Dates               | Subjects Taught                                                                                                                                                    |
+|--------------------------------------------------------|---------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Teacher of Biology, Year Head, Natural Sciences Coord. | Lomond School, Helensburgh            | Aug 2022 – Aug 2025 | International Baccalaureate Diploma Programme Sports, Exercise and Health Science<br/>Higher, National 4 & National 5 Biology, National 5 Chemistry, S2–S3 Science |
+| Teacher of Biology                                     | St Columba’s School, Kilmacolm        | Aug 2019 – Aug 2022 | Higher, National 5 Biology, National 5 Physics, S2 Science                                                                                                         |
+| Teacher of Biology                                     | Williamwood High School               | Oct 2016 – Jun 2017 | BGE Science, National 4/National 5 Biology, Environmental Science                                                                                                  |
+| Lecturer in Biology                                    | Clyde College (Langside Campus)       | Aug 2012 – Jun 2014 | Higher, Higher Human, Advanced Higher Biology                                                                                                                      |
+| Teacher of Biology                                     | The High School of Glasgow            | Aug 2010 – Feb 2011 | Standard Grade, Higher Human, Advanced Higher Biology                                                                                                              |
+| Teacher of Biology                                     | St Margaret’s School, Edinburgh       | Aug 2008 – Jun 2010 | Standard Grade Physics, Standard Grade, Higher & Advanced Higher Biology                                                                                           |
+| Probationer Teacher of Biology                         | Biggar High School, South Lanarkshire | Aug 2007 – Aug 2008 | Standard Grade Science/Biology, Intermediate 2, Higher Human Biology                                                                                               |
 
 Download my full CV [here](/downloads/Dorothy_MacDonald_Tutor_CV.pdf).
 {: .notice--success}
