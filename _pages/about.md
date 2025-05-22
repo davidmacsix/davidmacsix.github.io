@@ -18,7 +18,7 @@ I love helping learners feel confident and capable — even when they thought sc
 
 ## Why I Teach Online
 
-I founded my online tutoring service to bring **personalized science education** to students around the globe.
+I founded my online tutoring service to bring **personalised science education** to students around the globe.
 {: .text-justify}
 
 Whether you're preparing for IB, SQA, A-Level exams, or just need a bit of help cracking mitosis, I’ll meet you with a
