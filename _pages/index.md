@@ -28,7 +28,7 @@ Whether you’re prepping for an exam or just need someone to make mitochondria 
 - <i class="far fa-fw fa-vial-virus"></i> **Chemistry & Physics** – up to GCSE/N5 level
 - <i class="far fa-fw fa-brain"></i> **Study Coaching** – coursework, projects, and confidence boosts
 
-## Why Students Love Learning With Me
+## Why Students Love Learning with Me
 ![image-center](/assets/images/why-students.png){: .align-center}
 - I'm a **real scientist** (Ph.D. in Immunology — yep, I’m that into cells!)
 - I’ve taught in top schools and colleges across the UK
