@@ -1,6 +1,8 @@
 ---
 layout: home
-title: "Welcome to Dr. Dot's International Tutoring!"
+title: >-
+  "Science is a way of thinking much more than it is a body of knowledge."
+  — Carl Sagan
 permalink: /
 header:
     overlay_image: /assets/images/cover.png
