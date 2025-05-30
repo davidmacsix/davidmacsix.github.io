@@ -6,9 +6,6 @@ title: >-
 permalink: /
 header:
     overlay_image: /assets/images/cover.png
-    actions:
-        - label: "Contact Me"
-          url: /contact/
 
 ---
 
