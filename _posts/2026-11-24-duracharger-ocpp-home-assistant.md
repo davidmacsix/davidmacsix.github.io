@@ -30,14 +30,33 @@ points at the vendor's cloud (`wss://ocpp16.evchargo.com:33033/<serial number>`)
 somewhere else is in charge.
 
 Home Assistant can be that somewhere else. The community [OCPP integration](https://github.com/lbbrhzn/ocpp)
-(installed from HACS) turns Home Assistant into an OCPP central system, listening on port 9000. So I set the charger's
-server address to:
+(installed from HACS) turns Home Assistant into an OCPP central system, listening on port 9000. The new server address is:
 
 ```
 ws://<home-assistant-ip>:9000
 ```
 
 The charger adds its own serial number to the end, which the integration uses as the charge point's ID.
+
+### Changing the server address
+
+Neither app will do this for you. Owners get the **Duracell Energy** app. Installers use a separate app, **PureCharger**
+(the [operating manual](https://www.manualslib.com/manual/3531124/Duracell-Duracharger.html) also calls it PureEV), to
+register the charger, connect it to Wi-Fi and set up load balancing. The way in is the charger's own access-point (AP)
+mode, which that installer setup uses, and which you can use from any phone browser:
+
+1. **Turn the charger off and on at its circuit breaker.** When it powers back up, it opens its own Wi-Fi hotspot, named
+   after its serial number. The manual says the hotspot switches itself off after 15 minutes, so be ready.
+2. **Join the hotspot** from your phone. The manual gives the hotspot's password.
+3. **Open `http://192.168.4.1`** in the phone's browser. You get the charger's login page.
+4. **Log in with the PIN** from the sticker that came with the charger.
+5. **Set the OCPP server address** to the Home Assistant address above, and save.
+
+![The charger's login page in AP mode, at 192.168.4.1]({{ "/assets/images/projects/ev-charger/ap-login.png" | relative_url }})
+*The charger's own login page, reached over its AP-mode hotspot.*
+
+Keep the original address (`wss://ocpp16.evchargo.com:33033/<serial number>`) somewhere safe. The same page is how you'd
+point the charger back at the vendor's cloud.
 
 ## It connected, then fell over. Every minute.
 
@@ -180,4 +199,5 @@ Once the charger was in Home Assistant, the rest came easily:
 - **Debug logging records the charger's password.** Turn it off once you're done, and restart Home Assistant to clear
   the old log.
 - **The charger stops talking to the vendor's cloud.** That's the point, but it also means the vendor app stops working
-  for it. If you ever need the vendor (for a warranty claim, say), you should be able to point it back.
+  for it. If you ever need the vendor (for a warranty claim, say), point it back at the original address over AP mode.
+- **Keep the PIN sticker.** It's the only way into the charger's own settings page.
