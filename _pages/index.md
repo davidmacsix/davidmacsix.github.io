@@ -37,6 +37,13 @@ feature_row:
     url: /projects/duracharger-ocpp-home-assistant/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/network/teaser.svg
+    alt: "Fibre into an SFP+ module, out to Wi-Fi 7 access points"
+    title: "A UniFi network without the Virgin Media Hub 5x"
+    excerpt: "An SFP+ ONT stick in place of the hub, Wi-Fi 7 and the full 2 Gbps."
+    url: /projects/unifi-network-virgin-media/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

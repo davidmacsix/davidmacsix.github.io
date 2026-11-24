@@ -25,6 +25,13 @@ feature_row:
     url: /projects/duracharger-ocpp-home-assistant/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/network/teaser.svg
+    alt: "Fibre into an SFP+ module, out to Wi-Fi 7 access points"
+    title: "UniFi network on Virgin Media fibre"
+    excerpt: "An SFP+ ONT stick in a UDM Pro in place of the Hub 5x, two Wi-Fi 7 access points and the full 2 Gbps."
+    url: /projects/unifi-network-virgin-media/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 Write-ups of things I've built. Each one covers what it does, how it's put together and the problems I hit on the way.
