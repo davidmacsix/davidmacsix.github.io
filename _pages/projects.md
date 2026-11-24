@@ -18,6 +18,13 @@ feature_row:
     url: /projects/duracell-inverter-home-assistant/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/ev-charger/teaser.jpg
+    alt: "The car charging on the floorplan dashboard"
+    title: "DuraCharger EV charger over OCPP"
+    excerpt: "Pointing the charger at Home Assistant instead of the vendor cloud, fixing the setting that froze it, and charging from spare solar."
+    url: /projects/duracharger-ocpp-home-assistant/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 Write-ups of things I've built. Each one covers what it does, how it's put together and the problems I hit on the way.

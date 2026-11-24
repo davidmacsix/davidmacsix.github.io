@@ -30,6 +30,13 @@ feature_row:
     url: /projects/duracell-inverter-home-assistant/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/ev-charger/teaser.jpg
+    alt: "The car charging on the floorplan dashboard"
+    title: "Freeing a Duracell DuraCharger with OCPP"
+    excerpt: "Ditching the vendor cloud and charging the car from spare solar."
+    url: /projects/duracharger-ocpp-home-assistant/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
