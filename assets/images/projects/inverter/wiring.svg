@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#9aa5b1"/>
+    </marker>
+  </defs>
+  <rect width="900" height="260" rx="12" fill="#1f2328"/>
+  <g fill="#2b3138" stroke="#4b5563" stroke-width="1.5">
+    <rect x="30" y="70" width="180" height="110" rx="10"/>
+    <rect x="260" y="70" width="180" height="110" rx="10"/>
+    <rect x="490" y="70" width="160" height="110" rx="10"/>
+    <rect x="700" y="70" width="170" height="110" rx="10"/>
+  </g>
+  <g fill="#e5e7eb" text-anchor="middle" font-weight="600">
+    <text x="120" y="112">Duracell / Skyline</text>
+    <text x="120" y="132">hybrid inverter</text>
+    <text x="350" y="112">Waveshare</text>
+    <text x="350" y="132">RS485 ↔ Ethernet</text>
+    <text x="570" y="112">Home network</text>
+    <text x="570" y="132">(router / switch)</text>
+    <text x="785" y="112">Home Assistant</text>
+    <text x="785" y="132">HA-Skyline (HACS)</text>
+  </g>
+  <g fill="#9aa5b1" text-anchor="middle" font-size="13">
+    <text x="120" y="158">RS485 port, A / B / PE</text>
+    <text x="350" y="158">Modbus TCP → RTU, 9600</text>
+    <text x="570" y="158">fixed IP for the adapter</text>
+    <text x="785" y="158">polls every 10 s</text>
+  </g>
+  <g stroke="#9aa5b1" stroke-width="2" marker-end="url(#a)" marker-start="url(#a)">
+    <line x1="212" y1="125" x2="256" y2="125"/>
+    <line x1="442" y1="125" x2="486" y2="125"/>
+    <line x1="652" y1="125" x2="696" y2="125"/>
+  </g>
+  <g fill="#f59e0b" text-anchor="middle" font-size="13">
+    <text x="234" y="60">twisted pair</text>
+    <text x="464" y="60">Ethernet</text>
+    <text x="674" y="60">TCP :502</text>
+  </g>
+  <text x="450" y="225" fill="#6b7280" text-anchor="middle" font-size="13">The inverter's own Wi-Fi only talks to the vendor cloud, so everything local goes through the RS485 port.</text>
+</svg>

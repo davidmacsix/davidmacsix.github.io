@@ -1,13 +1,7 @@
 main:
-  - title: "Home"
-    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Articles"
+    url: /articles/
   - title: "About"
     url: /about/
-  - title: "FAQ"
-    url: /faq/
-  - title: "Contact"
-    url: /contact/
-  - title: "Blog"
-    url: /blog/
-  - title: "<i class='fas fa-search'></i>"
-    url: /search/

@@ -1,14 +1,14 @@
-title: "Dr. Dot's International Tutoring"
-subtitle: "Helping Curious Minds Thrive in Science"
-email: dot@macsix.io
+title: "macsix.io"
+subtitle: "Projects, tinkering and write-ups"
 description: >-
-  Fun, friendly, expert science tutoring in Biology, Health and STEM with Dr. Dot.
+  David's projects: home automation, 3D dashboards, energy monitoring and other things built for fun.
 baseurl: ""
 url: "https://macsix.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 
+search: true
 search_full_content: true
 plugins:
   - jekyll-feed
@@ -31,6 +31,8 @@ defaults:
       author_profile: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
   - scope:
       path: ""
       type: pages
@@ -38,24 +40,18 @@ defaults:
       layout: single
       author_profile: true
       classes: wide
-# Social Links
-author:
-  avatar: "/assets/images/dot-profile.png"
-  name: Dr. Dorothy MacDonald
-  bio: >-
-    I am a passionate educator with a PhD in Immunology and over 17 years of experience in teaching and tutoring. I specialise in Biology, Health, and STEM subjects, making learning fun and engaging for students of all ages.
-  links:
-    - label: "dot@macsix.io"
-      icon: "far fa-fw fa-envelope"
-      url: "mailto:dot@macsix.io"
-    - label: WhatsApp
-      icon: "fab fa-fw fa-whatsapp"
-      url: "https://wa.me/447973151425"
-    - label: +44 7973 151425
-      icon: "far fa-fw fa-phone"
-      url: "tel:+447973151425"
 
-logo: "/assets/images/logo.png"
+author:
+  name: "David"
+  bio: >-
+    Software engineer in Scotland. By day I build software; in the evenings I tinker with home automation,
+    energy monitoring and anything else that can be wired into Home Assistant.
+  location: "Scotland, UK"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/davidmacsix"
+
 locale: "en-GB"
 markdown: kramdown
 highlighter: rouge
