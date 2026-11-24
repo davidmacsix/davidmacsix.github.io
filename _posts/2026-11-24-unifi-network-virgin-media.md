@@ -41,6 +41,9 @@ The **WAS-110** (sold under a few names, including X-ONU-SFPP) is an XGS-PON ONT
 [8311 community firmware](https://pon.wiki/) gives it a web interface and the settings needed to *masquerade* as another
 ISP's ONT. Mine plugs straight into the UDM Pro's SFP+ WAN port.
 
+I bought my stick **pre-flashed** with the 8311 firmware, which skips the fiddliest part of the job. Flashing it
+yourself is possible, and pon.wiki covers it, but a pre-flashed stick is ready to configure out of the box.
+
 ### What it needs from the hub
 
 The [pon.wiki guide for the Hub 5x](https://pon.wiki/guides/masquerade-as-the-virgin-media-o2-hub-5x-with-the-was-110/)
@@ -64,8 +67,10 @@ And never mix **APC** (green) and **UPC** (blue) connectors: they're cut at diff
 ### The router side
 
 The stick is a bridge, not a router, so the UDM Pro does the routing. On my setup the UDM Pro's WAN is plain **DHCP**,
-with the line's speeds entered as 2 Gbps so UniFi's graphs make sense. The guide also covers cloning the hub's MAC
-address onto the router's WAN, which helps if Virgin's DHCP server is still holding a lease for the hub.
+with the line's speeds entered as 2 Gbps so UniFi's graphs make sense.
+
+I **didn't clone the hub's MAC address** onto the router's WAN, and didn't need to: the UDM Pro got its address from
+Virgin with its own MAC. The guide covers MAC cloning in case Virgin's DHCP server holds on to the hub's lease.
 
 ### Things to know
 

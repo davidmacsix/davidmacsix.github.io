@@ -44,6 +44,13 @@ feature_row:
     url: /projects/unifi-network-virgin-media/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/santa-claude/teaser.svg
+    alt: "Four equally sized presents with level budget bars"
+    title: "Santa-Claude"
+    excerpt: "Using Claude Code to run Christmas for four kids: wishlists, fair budgets and Black Friday price watches."
+    url: /projects/santa-claude/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -32,6 +32,13 @@ feature_row:
     url: /projects/unifi-network-virgin-media/
     btn_label: "Read more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/projects/santa-claude/teaser.svg
+    alt: "Four equally sized presents with level budget bars"
+    title: "Santa-Claude"
+    excerpt: "Claude Code as Christmas admin: reading the kids' wishlists, keeping four budgets level, watching prices and remembering the house rules."
+    url: /projects/santa-claude/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 Write-ups of things I've built. Each one covers what it does, how it's put together and the problems I hit on the way.
