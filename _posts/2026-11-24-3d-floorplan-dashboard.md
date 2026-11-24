@@ -47,17 +47,27 @@ other and shows or hides each one depending on an entity's state.
 
 ### 1. The model
 
-The house started life as a floorplan model in Blender, cut off just above waist height so you can see into every room
-from an isometric camera. I then furnished it room by room, working from photos of each wall: desks, monitors on arms,
-beds, a swivel chair, wall colours. Where I could, furniture is modelled to the manufacturer's published dimensions so
-it sits right in the room.
+The house started life on paper. When we bought it, the deeds came with a floorplan, so I scanned that and imported it
+into [Sweet Home 3D](https://www.sweethome3d.com/) as a background image. Tracing over the scan gave me the walls,
+doors and windows of the initial model.
+
+The deeds only showed the house as it was when we bought it, though. Since then we've moved walls, taken out hallways
+and created new rooms, so I edited the traced model to match the house as it is today.
+
+Sweet Home 3D is great for laying out a house but not for rendering it the way I wanted, so I exported the model and
+imported it into [Blender](https://www.blender.org/). There I cut the walls down to just above waist height, so you can
+see into every room from an isometric camera, and started furnishing it.
+
+Later rooms were furnished one at a time, working from photos of each wall: desks, monitors on arms, beds, a swivel
+chair, wall colours. Where I could, furniture is modelled to the manufacturer's published dimensions so it sits right
+in the room.
 
 ![A bedroom modelled from photos]({{ "/assets/images/projects/floorplan/room-from-photos.jpg" | relative_url }})
 *One bedroom, modelled from four photos. The walls are painted to match and the furniture is built to IKEA's published sizes.*
 
-One rule kept this manageable: **the .blend file is never edited by hand for the dashboard.** Every change (opening up a
-cupboard, cutting a wall down, adding furniture, repainting a room) is a Python script that runs against the model in
-memory at render time. That means every tweak is repeatable, reviewable and easy to undo.
+Once the dashboard was up and running, one rule kept it manageable: **the .blend file is no longer edited by hand.**
+Every change (opening up a cupboard, cutting a wall down, adding furniture, repainting a room) is a Python script that
+runs against the model in memory at render time. That means every tweak is repeatable, reviewable and easy to undo.
 
 ### 2. Rendering the layers
 
@@ -144,7 +154,8 @@ programmer. I described what I wanted, often with photos of a room, and we itera
 
 You'll need:
 
-- A 3D model of your home in [Blender](https://www.blender.org/) (a floorplan tool that exports to Blender is a good start).
+- A 3D model of your home in [Blender](https://www.blender.org/). A scanned floorplan traced in
+  [Sweet Home 3D](https://www.sweethome3d.com/) and exported to Blender is a quick way to get one.
 - An orthographic camera, and the discipline to keep all your changes in scripts.
 - Home Assistant's picture-elements card, plus [Bubble Card](https://github.com/Clooos/Bubble-Card) if you want pop-ups.
 - Python with Pillow and NumPy to post-process the layers, and the Home Assistant WebSocket API to publish the card.
