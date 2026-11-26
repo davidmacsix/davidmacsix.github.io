@@ -16,7 +16,7 @@ and battery are doing, and whether the car is plugged in. So I built a 3D model 
 
 ![The finished dashboard on a winter evening]({{ "/assets/images/projects/floorplan/evening.jpg" | relative_url }})
 *An evening view. Lights glow where they're actually on, orange outlines mark the rooms that are heating, and the
-temperature, humidity and power for each room sit on its wall.*
+temperature, humidity and power for each room float just above its outer wall.*
 
 ## What it shows
 
@@ -24,7 +24,7 @@ Everything on the picture is driven by live Home Assistant state:
 
 - **Lights.** Every light in the house glows in its real position: ceiling spots, lamps, a mirror with bulbs round it,
   even the light inside a cupboard. Turn two on in the same room and their glows add up, just like real light.
-- **Heating.** Each room's temperature is written on its wall. The colour runs from blue (cold) through green to
+- **Heating.** Each room's temperature floats just above its outer wall. The colour runs from blue (cold) through green to
   orange-red (warm), and a glowing orange line traces round the top of the walls while that room's radiator valve is open.
 - **Presence.** A thinner white line runs round the en-suite while its mmWave presence sensor sees someone.
 - **Energy.** The solar panels glow brighter as output rises, the battery cabinet shows its charge level, and animated
@@ -108,8 +108,8 @@ screen = P0 + x·ux + y·uy + z·uz
 
 That one formula positions everything that isn't a pre-rendered image:
 
-- **Labels** are `state-label` elements with a CSS `matrix()` transform that lays the text flat onto a wall or floor, so
-  it looks painted on.
+- **Labels** are `state-label` elements with a CSS `matrix()` transform that lays the text in a wall's plane. Each room's
+  temperature, humidity and power float just above its outer wall, so they line up with the house without covering it.
 - **Tap areas** are invisible images clipped to each room's outline with CSS `clip-path`, stacked back to front so the
   nearer room wins where two rooms share a wall.
 - **The blind** is a small custom element that draws an SVG in the window's wall plane, using the same projection as an
